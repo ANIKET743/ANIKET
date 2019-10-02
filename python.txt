@@ -1,0 +1,5 @@
+welcome to python !!!!
+1.lopping
+for i in range(1,10):
+    print(i)
+    
